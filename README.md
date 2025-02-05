@@ -1,0 +1,1 @@
+# Simple_genAI_App_using_Ollama
